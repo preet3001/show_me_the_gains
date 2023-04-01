@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.show_me_the_gains">
    <application
-        android:label="show_me_the_gains"
+        android:label="Weight Lifting Logger"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
